@@ -1,0 +1,8 @@
+
+# Tell Git to ignore intermediate object files (.o)
+*.o
+
+# Tell Git to ignore the executable binary file
+newton
+
+
